@@ -1,1 +1,2 @@
 The game executable is in the "game" folder!
+The game is called "Dork" (i just forgot to change its name before o7)
